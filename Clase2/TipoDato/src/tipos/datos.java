@@ -6,6 +6,7 @@ public class datos {
 	
 	public static void main(String[] args) {
 		
+		
 		/*System.out.print("Ingresar Edad: ");
 		Scanner sn = new Scanner(System.in);
 		
