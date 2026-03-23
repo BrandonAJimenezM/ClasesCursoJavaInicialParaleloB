@@ -1,0 +1,5 @@
+La programación Orientada a Objetos
+Java permite trabajar con Clases,
+Objetos, Herencia, Polimorfismo,
+Abstracción, Interfaces.
+Además, con la buena practica SOLID.

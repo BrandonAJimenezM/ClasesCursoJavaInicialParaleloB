@@ -1,0 +1,4 @@
+Los punto y coma, 
+delimitan al intrepete
+que una instrucción o proceso
+a acabado.
